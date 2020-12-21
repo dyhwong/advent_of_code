@@ -9,5 +9,6 @@ pub fn solve_all() {
     // day4::solve();
     // day5::solve();
     // day6::solve();
-    day7::solve();
+    // day7::solve();
+    day8::solve();
 }
